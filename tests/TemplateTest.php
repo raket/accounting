@@ -3,7 +3,7 @@
 namespace ledgr\accounting;
 
 use DateTime;
-use ledgr\amount\Amount;
+use byrokrat\amount\Amount;
 
 class TemplateTest extends \PHPUnit_Framework_TestCase
 {

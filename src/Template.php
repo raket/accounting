@@ -11,7 +11,7 @@ namespace ledgr\accounting;
 
 use ledgr\accounting\Exception\UnexpectedValueException;
 use ledgr\accounting\Exception\InvalidArgumentException;
-use ledgr\amount\Amount;
+use byrokrat\amount\Amount;
 
 /**
  * Simple accounting template class
